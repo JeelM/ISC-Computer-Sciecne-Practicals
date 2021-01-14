@@ -1,5 +1,5 @@
 # ISC-Computer-Sciecne-Practicals
-##***ISC2020 Prime-Adam Number***\
+***## ISC2020 Prime-Adam Number***\
 Prime Number : 2, 3, 5, 7, 9...\
 Adam Number : The square of the number and the square of its reverse are reverse of each other\
 *Example:*\
